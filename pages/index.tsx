@@ -1,6 +1,7 @@
 // pages/index.tsx
 import React from "react";
-import LineChart from "./LineChart";
+import LineChart from "./lineCharts";
+
 
 
 
